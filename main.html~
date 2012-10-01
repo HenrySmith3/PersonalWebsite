@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Henry Smith</title>
+    <meta name="description" content="My personal and professional website">
+    <meta name="author" content="Henry Smith">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Styles -->
+    <link href="bootstrap.css" rel="stylesheet">
+
+    <!-- Fav and touch icons -->
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+    
+    
+    <!-- Scripts: inc. TableSorter -->
+        <script src="http://code.jquery.com/jquery-1.5.2.min.js"></script>
+    <script src="http://autobahn.tablesorter.com/jquery.tablesorter.min.js"></script>
+    <script src="assets/js/google-code-prettify/prettify.js"></script>
+    <script src="assets/js/application.js"></script>
+  </head>
+
+  <body>
+
+    <div class="container">
+      <div class="row">
+        <div class="span8">
+          <!-- Main hero unit for a primary marketing message or call to action -->
+          <div class="hero-unit">
+            <h1>Henry Smith</h1>
+            <p>Georgia Tech Computer Science Major</p>
+          </div>
+        </div>
+	<div class="span4">
+	  <div class="hero-unit">
+	    <img src="img/photo.jpg" alt="From awhile ago, I have longer hair now."/>
+	  </div>
+	</div>
+      </div>
+    </div>
+<div class="container">
+  <div class="row">
+    <div class="span4">
+      <h2>Looking to hire me?</h2>
+      <p>My most useful skills are in Java and back-end web development, but <a href="#">feel free to take a look at my resume</a></p>
+    </div>
+    <div class="span4">
+      <h2>Looking to contact me?</h2>
+      <p>Then grab a copy of my resume. To cut down on spam (especially since this website doesn't get much traffic), my contact information can be found in my resume. Sorry!</p>
+    </div>
+    <div class="span4">
+      <h2>Looking to learn more about me?</h2>
+      <p>The short answer is that I'm a 20 year old CS major from PeachTree City, and a brother in Phi Kappa Theta fraternity.</p>
+    </div>
+  </div>
+</div>
+<div class="container">          <h2>Welcome! <small>and a table</small></h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce interdum euismod tempor. In hac habitasse platea dictumst. Duis id augue est, vel viverra velit. Quisque adipiscing sem et nulla dapibus consequat. Nam volutpat quam nec purus convallis cursus. Etiam dictum urna vel augue dignissim ac tincidunt velit commodo. Etiam vitae augue erat. Nam ut elit nunc, vel varius quam. Etiam neque massa, ullamcorper eu feugiat sed, aliquet feugiat lectus. Integer aliquam rhoncus velit a vehicula. Quisque malesuada feugiat posuere. Aliquam consectetur, dolor et tristique vulputate, dui neque luctus magna, sed sodales metus lectus vel risus.</p> </div>
+
+  </body>
+</html>
